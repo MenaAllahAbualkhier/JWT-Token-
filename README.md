@@ -1,5 +1,6 @@
 # JWT-Token-
 
+asp.net Core 6 Web Api project 
 
 use microsoft identity to  apply registration and Login
 
